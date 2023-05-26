@@ -6,7 +6,7 @@
 </div>-->
 
 <div align="center">
-  <img src="https://github.com/marijacveevska/marijacveevska/assets/94995858/2a71dccd-501f-4b60-a875-5b68f6ae538a" alt="cool_data_3" style="max-width: 100% ; height: 300px; " />
+  <img src="https://github.com/marijacveevska/marijacveevska/assets/94995858/2a71dccd-501f-4b60-a875-5b68f6ae538a" alt="cool_data_3" style="max-width: 100% " />
 </div>
 
 <h3 align="left">Connect with me:</h3>
