@@ -1,8 +1,12 @@
 <h1 align="center">Hi 👋, I'm Marija Cveevska</h1>
 <h3 align="center">Currently enrolled in the Data Science Master's Degree program @ Università degli Studi di Padova</h3>
 
-<div align="center">
+<!--<div align="center">
   <img src="https://github.com/marijacveevska/marijacveevska/assets/94995858/2a71dccd-501f-4b60-a875-5b68f6ae538a" alt="cool_data_3" width="500" />
+</div>-->
+
+<div align="center">
+  <img src="https://github.com/marijacveevska/marijacveevska/assets/94995858/2a71dccd-501f-4b60-a875-5b68f6ae538a" alt="cool_data_3" style="max-width: 100% ; height: 300px; " />
 </div>
 
 <h3 align="left">Connect with me:</h3>
