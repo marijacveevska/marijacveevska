@@ -1,6 +1,3 @@
-<!--
-**marijacveevska/marijacveevska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <h1 align="center">Hi 👋, I'm Marija Cveevska</h1>
 <h3 align="center">Currently enrolled in the Data Science Master's Degree program @ Università degli Studi di Padova</h3>
 
