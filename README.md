@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Marija Cveevska</h1>
+<h1 align="center">Hi 👋, I'm Marija </h1>
 <h3 align="center">Currently enrolled in the Data Science Master's Degree program @ Università degli Studi di Padova</h3>
 
 <div align="center">
