@@ -4,7 +4,8 @@
 <div align="center">
   <img src="https://github.com/marijacveevska/marijacveevska/assets/94995858/3e77288b-e1a5-4ed2-8161-19ee1c2e238f" alt="ezgif.com-crop" width="600" />
 </div>
-
+<br>
+<br>
 
 - 📫 How to reach me **marijacveevska@gmail.com**
 
