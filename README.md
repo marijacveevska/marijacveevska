@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Marija!
 👩🏻‍💻 Creative Individual with Analytical Mindset.
-👩🏻‍🎓 Studied Data Science at the [Università degli Studi di Padova](https://www.unipd.it/en/international-ranking),Italy (Top 1% Universities in the World)<br/>
+👩🏻‍🎓 Studied Data Science at the [Università degli Studi di Padova](https://www.unipd.it/en/international-ranking), Italy (Top 1% Universities in the World)<br/>
 🎨 Combining Analytical depth with Creative presentation <br/>
 🌷 Currently Finishing my Thesis Project with [Baker Hughes](https://www.bakerhughes.com/) !<br/>
 
