@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Marija!
-👩🏻‍💻 Creative Individual with Analytical Mindset.
-👩🏻‍🎓 Studied Data Science at the [Università degli Studi di Padova](https://www.unipd.it/en/international-ranking), Italy (Top 1% Universities in the World)<br/>
+👩🏻‍💻 Creative Individual with Analytical Mindset. <br/>
+👩🏻‍🎓 Studied Data Science at the [Università degli Studi di Padova](https://www.unipd.it/en/international-ranking), Italy (Top 1% Universities in the World) <br/>
 🎨 Combining Analytical depth with Creative presentation <br/>
 🌷 Currently Finishing my Thesis Project with [Baker Hughes](https://www.bakerhughes.com/) !<br/>
 
@@ -10,6 +10,8 @@
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 ![](https://github-readme-stats.vercel.app/api?username=marijacveevska&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marijacveevska&layout=compact)<br/>
 
 <div align="center">
   <img src="https://github.com/marijacveevska/marijacveevska/assets/94995858/3e77288b-e1a5-4ed2-8161-19ee1c2e238f" alt="ezgif.com-crop" width="600" />
