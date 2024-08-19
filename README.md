@@ -9,7 +9,8 @@
 
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-![](https://github-readme-stats.vercel.app/api?username=xsol05&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=marijacveevska&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
 <div align="center">
   <img src="https://github.com/marijacveevska/marijacveevska/assets/94995858/3e77288b-e1a5-4ed2-8161-19ee1c2e238f" alt="ezgif.com-crop" width="600" />
 </div>
