@@ -7,7 +7,18 @@
 💭 Portfolio and CV in my [digital garden](https://marijacveevska.notion.site/Marija-Cveevska-CV-Portfolio-e41f23ac10fd43529f27a7367571e99f)<br/>
 📫 How to reach me **marijacveevska@gmail.com**
 
-# 💻 Tech Stack
+## 📚 Knowledge Stack
+
+- Machine and Deep Learning
+- Statistical Learning
+- Big Data
+- Time Series Data
+- Data Analysis and Visualization
+- Databases
+- Computer Vision and NLP
+
+
+## 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
