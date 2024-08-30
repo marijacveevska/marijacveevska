@@ -2,7 +2,7 @@
 👩🏻‍💻 Creative Individual with Analytical Mindset. <br/>
 👩🏻‍🎓 Studying Data Science at the [Università degli Studi di Padova](https://www.unipd.it/en/international-ranking), Italy (Top 1% Universities in the World) <br/>
 🎨 Combining Analytical depth with Creative presentation <br/>
-🌷 Currently Finishing my Thesis Project with [Baker Hughes](https://www.bakerhughes.com/) !<br/>
+🌷 Currently Finishing my Thesis Project with a [Fortune 500 company](https://fortune.com/ranking/global500/) !<br/>
 
 💭 Portfolio and CV in my [digital garden](https://marijacveevska.notion.site/Marija-Cveevska-CV-Portfolio-e41f23ac10fd43529f27a7367571e99f)<br/>
 📫 How to reach me **marijacveevska@gmail.com**
