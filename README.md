@@ -4,24 +4,26 @@
 🎨 Combining Analytical depth with Creative presentation <br/>
 🌷 Currently Finishing my Thesis Project with a [Fortune 500 company](https://fortune.com/ranking/global500/) !<br/>
 
-💭 Portfolio and CV in my [digital garden](https://marijacveevska.notion.site/Marija-Cveevska-CV-Portfolio-e41f23ac10fd43529f27a7367571e99f)<br/>
 📫 How to reach me **marijacveevska@gmail.com**
 
 ## 📚 Knowledge Stack
 
+- Data Analysis and Visualization
 - Machine and Deep Learning
 - Statistical Learning
-- Big Data
 - Time Series Data
-- Data Analysis and Visualization
 - Databases
 - Computer Vision and NLP
 
 
 ## 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
@@ -32,9 +34,6 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
-
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 <br/>
 
