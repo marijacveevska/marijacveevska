@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Marija!
 👩🏻‍💻 Creative Individual with Analytical Mindset. <br/>
-👩🏻‍🎓 Studying Data Science at the [Università degli Studi di Padova](https://www.unipd.it/en/international-ranking), Italy (Top 1% Universities in the World) <br/>
+👩🏻‍🎓 Masters Graduate in Data Science at the [Università degli Studi di Padova](https://www.unipd.it/en/international-ranking), Italy (Top 1% Universities in the World) <br/>
 🎨 Combining Analytical depth with Creative presentation <br/>
-🌷 Currently Finishing my Thesis Project with a [Fortune 500 company](https://fortune.com/ranking/global500/) !<br/>
+🌷 Did my Thesis Project with a [Fortune 500 company](https://fortune.com/ranking/global500/) !<br/>
 
 📫 How to reach me **marijacveevska@gmail.com**
 
