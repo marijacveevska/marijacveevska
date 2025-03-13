@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Marija!
 👩🏻‍💻 Creative Individual with Analytical Mindset. <br/>
-👩🏻‍🎓 Masters Graduate in Data Science at the [Università degli Studi di Padova](https://www.unipd.it/en/international-ranking), Italy (Top 1% Universities in the World) <br/>
+<!-- 👩🏻‍🎓 Masters Graduate in Data Science at the [Università degli Studi di Padova](https://www.unipd.it/en/international-ranking), Italy (Top 1% Universities in the World) <br/>
 🎨 Combining Analytical depth with Creative presentation <br/>
 🌷 Did my Thesis Project with a [Fortune 500 company](https://fortune.com/ranking/global500/) !<br/>
 
-📫 How to reach me **marijacveevska@gmail.com**
+📫 How to reach me **marijacveevska@gmail.com** -->
 
 ## 📚 Knowledge Stack
 
@@ -16,9 +16,9 @@
 - Computer Vision and NLP
 
 
-## 💻 Tech Stack
+<!-- ## 💻 Tech Stack -->
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
-
+<!--
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
@@ -32,6 +32,7 @@
 
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+-->
 
 
 <br/>
